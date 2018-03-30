@@ -1,0 +1,49 @@
+ Osogine:
+Neke definicije
+color green #00a86d
+color gray #4a4a4a
+Container
+padding: 0 20px;
+width: 320px;
+position: fixed
+scroll po y osi
+Sve linije
+color #dcdcdc
+Prvi deo gde se nalazi slika Lafarge kuce
+height: 80px
+koristi obosinu flex kako bi centrirala sliku 
+da bude vertikalno po sredini
+slika width: 150px; height: 40px; 
+(nadji bilo koju sliku)
+Drugi deo gde je profilna slika
+Width i height od slike su 120px
+border-radius neka bude 50%
+stavi padding 3px i border 1px solid green 
+i tako ces dobiti zeleni krug
+zdravo jelena i marko font-size: 24px; 
+margin-bottom: 15px
+tekst ispod font-size: 14px; font-weight: 500;
+tekst stavi u jedan div i neka bude 50%
+koristi flex kako bi smestila jedno pored 
+drugog
+Pocetak i kraj radova
+definisi dva div po 50% i koristi flex da ih 
+smestis jedan pored drugog
+tekst iznad font-size: 14px; 
+font-weight: 500; margin-bottom: 10px;
+tekst ispod font-size: 20px; 
+font-weight: bold; color: green
+Preostalo
+definisi dva div po 50% i koristi flex da 
+ih smestis jedan pored drugog
+tekst iznad font-size: 14px; 
+font-weight: 500; margin-bottom: 10px;
+tekst ispod font-size: 30px; 
+font-weight: bold; color: green
+Za sve
+Ne moras da pravis vremensku prognozu
+Ne moras stavljati vertikalnu liniju
+Svaki deo osim gde se nalazi slika Lafarge
+padding-top i padding-bottom: 20px
+neka bude boja teksta gray osim gde sam 
+napisao da je green
